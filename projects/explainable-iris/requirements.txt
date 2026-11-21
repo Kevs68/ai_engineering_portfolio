@@ -1,3 +1,5 @@
+nbconvert
+joblib
 numpy
 pandas
 scikit-learn
